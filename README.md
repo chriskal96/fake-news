@@ -34,3 +34,9 @@ As we have evaluate all the models, we conclude that the best model is the Feed 
 ____________________________________________________________
 Most of our models have very high accuracy not only because of the pre-processing but also because of the nature of the data. So, we use [Dummy Classifier](https://github.com/chriskal96/fake-news/blob/main/7_Dummy_Classifier.ipynb) which result in 51% accuracy and that means that our results are far better than those chosen with a not clever way.
 
+#### Authors
+____________________________________________________________
+<a href="https://github.com/konstantinagewrg">Konstantina Georgiopoulou</a><br/>
+<a href="https://github.com/antheodorou">Anastasios Theodorou</a><br/>
+<a href="https://github.com/chriskal96">Christos Kallaras</a><br/>
+Stavros Kasiaris
