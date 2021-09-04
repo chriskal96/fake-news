@@ -20,3 +20,17 @@ On the first phase we [explore](https://github.com/chriskal96/fake-news/blob/mai
 #### Algorithms, NLP architectures  
 ____________________________________________________________
 We use many algorithms in order to meet our business goals. 
+* [Logistic Regression](https://github.com/chriskal96/fake-news/blob/main/3_Logistic_Regression.ipynb) 
+* [Feed Forward Neural Network (NN)](https://github.com/chriskal96/fake-news/blob/main/4_Feed_Forward_NN.ipynb )
+* [Recurrent NN](https://github.com/chriskal96/fake-news/blob/main/5_Recurrent_NN.ipynb) 
+* [BERT] 
+
+#### Results
+____________________________________________________________
+As we have evaluate all the models, we conclude that the best model is the Feed Forward NN  with accuracy **above 98% for both training and validation** and very small values for the loss function.
+(The weights of our best model can be found [here](https://drive.google.com/file/d/14UtTy0A6z-ZlfHP6nN_TVQVYifeUchaG/view?usp=sharing)) 
+
+#### Conclusion 
+____________________________________________________________
+Most of our models have very high accuracy not only because of the pre-processing but also because of the nature of the data. So, we use [Dummy Classifier](https://github.com/chriskal96/fake-news/blob/main/7_Dummy_Classifier.ipynb) which result in 51% accuracy and that means that our results are far better than those chosen with a not clever way.
+
