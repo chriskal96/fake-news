@@ -23,7 +23,7 @@ We use many algorithms in order to meet our business goals.
 * [Logistic Regression](https://github.com/chriskal96/fake-news/blob/main/3_Logistic_Regression.ipynb) 
 * [Feed Forward Neural Network (NN)](https://github.com/chriskal96/fake-news/blob/main/4_Feed_Forward_NN.ipynb )
 * [Recurrent NN](https://github.com/chriskal96/fake-news/blob/main/5_Recurrent_NN.ipynb) 
-* [BERT] 
+* [Bert](https://github.com/chriskal96/fake-news/blob/main/6_Bert.ipynb) 
 
 #### Results
 ____________________________________________________________
